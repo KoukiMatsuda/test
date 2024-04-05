@@ -2,7 +2,7 @@
 
 int main(void) {
     signed char cData1 = 0x01;
-    signed char cData2 = 0x0A;
+    signed char cData2 = 0x0B;
     signed char cData3;
     signed char cData4;
 
